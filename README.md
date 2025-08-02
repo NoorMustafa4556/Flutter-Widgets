@@ -151,11 +151,6 @@ With a strong understanding of **UI/UX principles**, **state management**, and *
 ---
 
 
----
-
-
-
----
 
 
 ## 🔧 Getting Started
@@ -164,5 +159,6 @@ With a strong understanding of **UI/UX principles**, **state management**, and *
    ```bash
    git clone https://github.com/NoorMustafa4556/Widgets.git
    cd Widgets
+
 
 
