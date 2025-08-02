@@ -150,7 +150,6 @@ With a strong understanding of **UI/UX principles**, **state management**, and *
 
 ---
 
-![Noor Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoorMustafa4556&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -165,4 +164,5 @@ With a strong understanding of **UI/UX principles**, **state management**, and *
    ```bash
    git clone https://github.com/NoorMustafa4556/Widgets.git
    cd Widgets
+
 
