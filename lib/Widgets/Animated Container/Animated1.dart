@@ -74,7 +74,7 @@ class _Animated1State extends State<Animated1> {
                     color: Colors.greenAccent,
                     shape: BoxShape.circle,
                     image: DecorationImage(
-                      image: AssetImage("assets/images/Babr.jpg"), // Image added
+                      image: AssetImage("assets/images/Babar.jpg"), // Image added
                       fit: BoxFit.cover, // Ensures the image fits well
                     ),
                   ),
