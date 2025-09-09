@@ -47,6 +47,33 @@ This project is a practical showcase of **50 essential Flutter widgets** organiz
 This is the perfect **learning resource** for Flutter beginners and intermediate developers. Instead of just reading documentation, you'll **see each widget in action**, understand their structure, and how they interact with others.
 
 ---
+## 🚀 Getting Started
+
+Follow these steps to set up and run the project on your local machine.
+
+### ✅ Prerequisites
+Make sure you have the following installed:
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)  
+- VS Code or Android Studio with Flutter & Dart plugins  
+
+### ⚡ Installation & Setup
+ ```bash
+   git clone https://github.com/NoorMustafa4556/Flutter-Widgets.git
+ 
+```
+## Adjust the folder path if your desired example is inside a different subfolder.
+
+## Install dependencies:
+
+   ```bash
+   flutter pub get
+ ```
+   ## Run the application:
+  
+  ```bash
+flutter run
+```
+Select your emulator/simulator or connect a physical device.
 # 👋 Hi, I'm Noor Mustafa
 
 A passionate and results-driven **Flutter Developer** from **Bahawalpur, Pakistan**, specializing in building elegant, scalable, and high-performance cross-platform mobile applications using **Flutter** and **Dart**.
@@ -172,6 +199,7 @@ With a strong understanding of **UI/UX principles**, **state management**, and *
 flutter run
 ```
 Select your emulator/simulator or connect a physical device.
+
 
 
 
