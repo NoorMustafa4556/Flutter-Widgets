@@ -57,7 +57,7 @@ class _Animated1State extends State<Animated1> {
               children: [
                 Center(
                   child: Text(
-                    '"She Said I Loves Flowers \n But I Was A Programmer\n 😉  😘 🤩 🤭 🙈 🙈 😎 "',
+                    '"My Friend Said I Loves Cricket \n But I Was A Programmer\n 😉  😘 🤩 🤭 🙈 🙈 😎 "',
                     style: GoogleFonts.damion(
                       textStyle: TextStyle(
                         fontWeight: FontWeight.bold,
@@ -74,7 +74,7 @@ class _Animated1State extends State<Animated1> {
                     color: Colors.greenAccent,
                     shape: BoxShape.circle,
                     image: DecorationImage(
-                      image: AssetImage("assets/images/Rose.jpg"), // Image added
+                      image: AssetImage("assets/images/Babr.jpg"), // Image added
                       fit: BoxFit.cover, // Ensures the image fits well
                     ),
                   ),
