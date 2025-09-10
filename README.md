@@ -180,27 +180,4 @@ With a strong understanding of **UI/UX principles**, **state management**, and *
 
 
 
-## 🔧 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/NoorMustafa4556/Widgets.git
-   cd Widgets
-## Adjust the folder path if your desired example is inside a different subfolder.
-
-## Install dependencies:
-
-   ```bash
-   flutter pub get
- ```
-   ## Run the application:
-  
-  ```bash
-flutter run
-```
-Select your emulator/simulator or connect a physical device.
-
-
-
-
 
